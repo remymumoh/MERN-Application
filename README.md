@@ -4,7 +4,7 @@
 
 This is the full app.The Link for the full app is [here](https://immense-peak-81914.herokuapp.com/login)
 
-The API can be found [here](https://github.com/bradtraversy/contact_keeper_api) with documented endpoints
+The API can be found [here](https://github.com/remymumoh/MERN-Api) with documented endpoints
 
 ## Usage
 
