@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb+srv://ray:ray13a26b@contacts-7ovoz.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
